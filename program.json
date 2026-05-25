@@ -1,7 +1,7 @@
 {
     "count": 1,
     "additionalInfo": {},
-    "ts": 1777877717,
+    "ts": 1779692806,
     "url": "https://indico.cern.ch/export/event/1599906.json?detail=sessions&pretty=yes",
     "results": [
         {
@@ -17,7 +17,7 @@
             "timezone": "Europe/Rome",
             "endDate": {
                 "date": "2026-06-05",
-                "time": "12:30:00",
+                "time": "13:20:00",
                 "tz": "Europe/Zurich"
             },
             "room": "Maria Luisa",
@@ -184,7 +184,7 @@
                 {
                     "_type": "SessionSlot",
                     "_fossil": "sessionMetadata",
-                    "id": 665057,
+                    "id": 671987,
                     "conference": {
                         "_type": "Conference",
                         "id": "1599906",
@@ -198,7 +198,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -214,7 +214,109 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
+                            "tz": "Europe/Zurich"
+                        },
+                        "supportInfo": {
+                            "_fossil": "supportInfo",
+                            "caption": "Support and Contacts Email",
+                            "_type": "SupportInfo",
+                            "email": "trackermechanicsforum-drd8-2026@lists.pi.infn.it, tmf-drd8-secretariat@lists.pi.infn.it",
+                            "telephone": "+39 050 2214 327"
+                        }
+                    },
+                    "startDate": {
+                        "date": "2026-06-04",
+                        "time": "19:00:00",
+                        "tz": "Europe/Zurich"
+                    },
+                    "endDate": {
+                        "date": "2026-06-04",
+                        "time": "20:00:00",
+                        "tz": "Europe/Zurich"
+                    },
+                    "description": "",
+                    "title": "Farewell event: Wine tasting",
+                    "url": "https://indico.cern.ch/event/1599906/sessions/664161/",
+                    "contributions": [],
+                    "note": {},
+                    "session": {
+                        "folders": [],
+                        "startDate": {
+                            "date": "2026-06-04",
+                            "time": "19:00:00",
+                            "tz": "Europe/Zurich"
+                        },
+                        "endDate": {
+                            "date": "2026-06-04",
+                            "time": "20:00:00",
+                            "tz": "Europe/Zurich"
+                        },
+                        "_type": "Session",
+                        "sessionConveners": [],
+                        "title": "Farewell event",
+                        "color": "#d9dfc3",
+                        "textColor": "#272f09",
+                        "description": "Azienda Arrighi Isola d'Elba - https://www.arrighivigneolivi.it/vinomarino/",
+                        "material": [],
+                        "isPoster": false,
+                        "type": null,
+                        "url": "https://indico.cern.ch/event/1599906/sessions/664161/",
+                        "roomFullname": "Maria Luisa",
+                        "location": "Hotel Hermitage",
+                        "address": "57037 Portoferraio (LI) \nIsola d\u2019Elba\nItaly\nhttps://www.hotelhermitage.it/en/home ",
+                        "_fossil": "sessionMinimal",
+                        "numSlots": 1,
+                        "id": "13",
+                        "db_id": 664161,
+                        "friendly_id": 13,
+                        "room": "Maria Luisa",
+                        "code": ""
+                    },
+                    "room": "Maria Luisa",
+                    "roomFullname": "Maria Luisa",
+                    "location": "Hotel Hermitage",
+                    "inheritLoc": true,
+                    "inheritRoom": true,
+                    "slotTitle": "Wine tasting",
+                    "address": "57037 Portoferraio (LI) \nIsola d\u2019Elba\nItaly\nhttps://www.hotelhermitage.it/en/home ",
+                    "conveners": [],
+                    "code": ""
+                },
+                {
+                    "_type": "SessionSlot",
+                    "_fossil": "sessionMetadata",
+                    "id": 665057,
+                    "conference": {
+                        "_type": "Conference",
+                        "id": "1599906",
+                        "title": "Forum on Tracking Detector Mechanics 2026",
+                        "description": "<p style=\"padding-left: 40px;\"><span style=\"background-color: rgb(255, 255, 255);\">A meeting to discuss issues of engineering and integration for present and future tracking systems.</span></p>\r\n<p style=\"padding-left: 40px;\"><span style=\"background-color: rgb(255, 255, 255);\">Like last year, the Forum on Tracking Detector Mechanics will be organized together with the <a href=\"https://drd8.web.cern.ch/\" target=\"_blank\" rel=\"noopener\">DRD8</a> collaboration meeting. We will begin on Monday afternoon with the Forum part and switch on Wednesday afternoon to the DRD8 collaboration meeting part, which will go until Friday noon.\u00a0</span></p>\r\n<p>Topics include</p>\r\n<ul>\r\n<li>Advanced cooling system technologies</li>\r\n<li>Qualification of novel materials, including mechanical, thermal, and radiation hardness characterization</li>\r\n<li>Engineering solutions for complex mechanical systems: vacuum compatibility, lightweight structural design, precision alignment, vibration mitigation, high-accuracy assembly, and failure analysis</li>\r\n<li>Environmental control systems: robotics, automation, and intelligent integrated control architectures</li>\r\n<li>Integration, operation, maintenance, and decommissioning of tracking systems</li>\r\n<li>Service and lifecycle management: low material budget optimization, high-performance components, and intelligent system integration</li>\r\n<li>Numerical simulations: finite element analysis (FEA) with experimental correlation, augmented reality applications, and advanced design and qualification tools.</li>\r\n</ul>\r\n<p>\u00a0</p>",
+                        "startDate": {
+                            "date": "2026-06-01",
+                            "time": "15:00:00",
+                            "tz": "Europe/Zurich"
+                        },
+                        "timezone": "Europe/Rome",
+                        "endDate": {
+                            "date": "2026-06-05",
+                            "time": "13:20:00",
+                            "tz": "Europe/Zurich"
+                        },
+                        "room": "Maria Luisa",
+                        "location": "Hotel Hermitage",
+                        "address": "57037 Portoferraio (LI) \nIsola d\u2019Elba\nItaly\nhttps://www.hotelhermitage.it/en/home ",
+                        "type": "conference",
+                        "references": [],
+                        "_fossil": "conference",
+                        "adjustedStartDate": {
+                            "date": "2026-06-01",
+                            "time": "15:00:00",
+                            "tz": "Europe/Zurich"
+                        },
+                        "adjustedEndDate": {
+                            "date": "2026-06-05",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -263,7 +365,46 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "Authors: Mighty Tracker Collaboration\r\n\r\nCorresponding authors: joanna.liberadzka-porret@epfl.ch, gauri.napoletano@epfl.ch\r\n\r\nAbstract: \r\n\r\nIn view of LHCb Upgrade II, taking place during Long Shutdown 4, the detector is going to be modified to operate at a several times higher instantaneous luminosity compared to Upgrade I. The Mighty-Tracker, which replaces the present Scintillating Fibre (SciFi) Tracker, will be composed of an inner pixel detector, called Mighty-Pixel, and an outer one consisting of scintillating fibres, known as Mighty-SciFi. A major challenge for the Mighty-SciFi is the operation of the Silicon PhotoMultipliers (SiPMs) in the radiation environment. To mitigate the increased level of radiation due to higher luminosity in Run 5, the photo-detectors are cooled to approximately 100 K to guarantee low noise (dark-count rate).\r\n\r\nDedicated vacuum insulated coldboxes have been designed, that integrate into the support C-Frame and SciFi mat modules. They house the 2K SiPM readout channels that allow for a spatial hit resolution of 100 \u00b5m. The coldbox design is optimised to provide low thermal contact between the SiPMs and SciFi mats on one side and the readout electronics outside the vacuum boxes on the other. With the help of the vacuum insulation and the thermal design optimisation, a total of less than 10 W of cooling power is required for a full box.\r\n\r\nTwo full-scale demonstrator setups cooled with liquid nitrogen have been built and operated confirming the thermal simulations. The operation of the Mighty-SciFi demonstrators allowed to confirm the expected detector response using signal injection with an electron source. Details of the mechanical design along with the cooling strategy, obtained temperatures and photo-detector response are presented.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3280293,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5861853,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019021/attachments/3280293/5861853/IMG_3491.JPG",
+                                            "title": "CP_13 - Napoletano.JPG",
+                                            "description": "",
+                                            "modified_dt": "2026-05-22T11:18:49.554578+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "IMG_3491.JPG",
+                                            "content_type": "image/jpeg",
+                                            "size": 2321032,
+                                            "checksum": "bc467c6d12f34cad7184efaec2c4826e"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5862222,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019021/attachments/3280293/5862222/Elba%20Poster%20A1%20-%20final.pdf",
+                                            "title": "PO_13 - Napoletano.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-22T13:17:32.236240+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "Elba Poster A1 - final.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 2957537,
+                                            "checksum": "176c7bc904ca1e074ac68bb54c1f83c9"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019021/",
                             "material": [],
                             "speakers": [
@@ -777,7 +918,46 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The focus of this work consists of thermal quality control of the TB2S ladder structures for the future CMS tracker, currently in construction for use in the High-Luminosity Large Hadron Collider (HL-LHC). Efficient and reliable cooling is crucial to ensure proper functioning of the tracker in the HL-LHC conditions, throughout the detector lifetime.\r\nProduction and QC of the TB2S ladders is done in collaboration between CERN, Pakistan institutes (NEW-2 and NCP) and IPHC Strasbourg. At CERN, a testing campaign has been conducted to validate the thermal performance of the first production ladders. The tests were done with two-phase CO\u2082 coolant in final operating conditions of \u221235\u00b0C and 12 bar. The main purpose of this test campaign was to verify the thermal performance of the ladders under final operating conditions, and to identify potential anomalies. Furthermore, these tests provided key feedback to improve the production QC tests that shall be done on all produced ladders.\r\nThe presentation describes the methods and the test setup used at CERN to measure the thermal performance with CO\u2082, using dummy heaters in place of real detector modules, and to compare results with those obtained with water cooling at the ladder production site in Pakistan.\r\nThe study continued by cross-checking the dummy-heater results against tests done with real detector modules performed in collaboration with IPHC Strasbourg and KIT. These tests confirmed that this QC measurement method with dummy-heaters provides the needed information on the cooling quality of the produced ladders. Finally, using the overall dataset, a thermal quality control method and flowchart was established to identify potentially anomalous ladders before their integration into the new CMS tracker.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3280896,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5863174,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019138/attachments/3280896/5863174/CP_Thermal%20Quality%20Control%20of%20TB2S%20Ladders%20for%20the%20CMS%20Phase-2%20Tracker%20Upgrade.jpeg",
+                                            "title": "CP_Thermal Quality Control of TB2S Ladders for the CMS Phase-2 Tracker Upgrade.jpeg",
+                                            "description": "",
+                                            "modified_dt": "2026-05-24T11:00:11.953621+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "CP_Thermal Quality Control of TB2S Ladders for the CMS Phase-2 Tracker Upgrade.jpeg",
+                                            "content_type": "image/jpeg",
+                                            "size": 486505,
+                                            "checksum": "3576694a70dbbd2a44f8dcd0cced46b0"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5863175,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019138/attachments/3280896/5863175/PO_Thermal%20Quality%20Control%20of%20TB2S%20Ladders%20for%20the%20CMS%20Phase-2%20Tracker%20Upgrade.pdf",
+                                            "title": "PO_Thermal Quality Control of TB2S Ladders for the CMS Phase-2 Tracker Upgrade.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-24T11:00:13.137507+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "PO_Thermal Quality Control of TB2S Ladders for the CMS Phase-2 Tracker Upgrade.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 1441998,
+                                            "checksum": "bbaffb3ae7eb47c9beb36b9ccb3bcfc0"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019138/",
                             "material": [],
                             "speakers": [
@@ -1230,7 +1410,60 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The focus of this work is the current CMS capillary production state in view of the upcoming upgrade. Capillaries play a key role in a cooling loop by ensuring proper flow distribution among parallel branches. For this purpose, it is important that they are sized such that a given flow rate through each capillary produces the desired pressure drop.\r\n\r\nDue to their small dimensions large quantities, the production process is extremely time-consuming and requires careful handling, as well as coordination among different working groups - from the data purchase to connector brazing and connection quality control.\r\n\r\nIn this poster, we present the current production status and recent tests carried out to investigate the impact of capillary shape changes after production. The results obtained led us to prototype and test capillaries in their installation configuration. Finally, close collaboration with the CERN brazing team guided the selection of Stainless Steel 316L as the appropriate material for capillary vacuum brazing.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3280642,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5862524,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5862524/CP_67.jpeg",
+                                            "title": "CP_67.jpeg",
+                                            "description": "",
+                                            "modified_dt": "2026-05-22T16:03:14.964285+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "CP_67.jpeg",
+                                            "content_type": "image/jpeg",
+                                            "size": 242025,
+                                            "checksum": "fdb09be49d3f080ff82f5be2e6f22a8f"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5862523,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5862523/CP_67.jpeg",
+                                            "title": "CP_67.jpeg",
+                                            "description": "",
+                                            "modified_dt": "2026-05-22T16:02:56.094574+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "CP_67.jpeg",
+                                            "content_type": "image/jpeg",
+                                            "size": 145012,
+                                            "checksum": "fb066c3b96153db12b6d39e2d6a60b1b"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5863107,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5863107/PO_67.pdf",
+                                            "title": "PO_67.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-23T13:24:42.997230+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "PO_67.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 6858408,
+                                            "checksum": "507da35e7f97fef1b062025e45dd6935"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019148/",
                             "material": [],
                             "speakers": [
@@ -1355,7 +1588,46 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The upgrade of the ATLAS Inner Tracker for the High-Luminosity LHC faced a critical challenge: thermal cycling from +20\u00b0C to -35\u00b0C induced cracks in silicon sensor modules due to coefficient of thermal expansion (CTE) mismatches between sensor materials and hybrid components. Finite element analyses revealed that the combination of stiff (TrueBlue) and soft (SE4445) adhesives exacerbated stress concentrations at sensor edges, leading to structural failures.\r\nTo mitigate this, an interposer-based decoupling strategy was developed using a Kapton foil as a mechanical buffer between sensors and hybrid/power boards. The interposer, bonded with SE4445 adhesive (containing glass beads for controlled thickness), effectively reduced stress transmission while maintaining electrical insulation. Validation tests on production-scale petals demonstrated crack prevention in interposer-equipped modules across multiple temperature cycles (-55\u00b0C), compared to consistent failures in non-interposed samples.\r\nThe solution was scaled through a semi-automated production tool with workflows, enabling consistent quality and a throughput of 4 hybrid arrays in one go. Collaboration with industry partner further accelerated production. This approach not only resolved the immediate reliability issue but also established a reproducible manufacturing process.\r\nThe tool\u2019s design prioritized scalability for industrial production, featuring:\r\n\u2022\tModular stencil systems for controlled glue coverage and thickness.\r\n\u2022\tVacuum plates for accurate component positioning, reducing manual errors.\r\n\u2022\tOptimized Kapton cutting via pattern cutter to streamline integration into existing workflows.\r\nBy outsourcing the production to an industry partner after developing the tool enabled a ramp-up of hybrid arrays significantly, meeting the project\u2019s throughput requirements.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3280675,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5862610,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019142/attachments/3280675/5862610/CP_61.jpeg",
+                                            "title": "CP_61.jpeg",
+                                            "description": "",
+                                            "modified_dt": "2026-05-22T19:32:53.389645+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "CP_61.jpeg",
+                                            "content_type": "image/jpeg",
+                                            "size": 1349295,
+                                            "checksum": "348beebd977d65ef135f3278bf1930f8"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5862611,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019142/attachments/3280675/5862611/PO_61.pdf",
+                                            "title": "PO_61.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-22T19:32:54.832070+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "PO_61.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 12646271,
+                                            "checksum": "329ec6859123a1ebb225edc4707b6127"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019142/",
                             "material": [],
                             "speakers": [
@@ -1457,7 +1729,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -1473,7 +1745,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -1559,7 +1831,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -1575,7 +1847,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -1661,7 +1933,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -1677,7 +1949,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -1695,7 +1967,7 @@
                     },
                     "endDate": {
                         "date": "2026-06-04",
-                        "time": "15:30:00",
+                        "time": "15:15:00",
                         "tz": "Europe/Zurich"
                     },
                     "description": "",
@@ -1712,7 +1984,7 @@
                         },
                         "endDate": {
                             "date": "2026-06-04",
-                            "time": "15:30:00",
+                            "time": "15:15:00",
                             "tz": "Europe/Zurich"
                         },
                         "_type": "Session",
@@ -1763,7 +2035,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -1779,7 +2051,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -2239,7 +2511,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -2255,7 +2527,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -2268,12 +2540,12 @@
                     },
                     "startDate": {
                         "date": "2026-06-04",
-                        "time": "15:30:00",
+                        "time": "15:15:00",
                         "tz": "Europe/Zurich"
                     },
                     "endDate": {
                         "date": "2026-06-04",
-                        "time": "19:40:00",
+                        "time": "19:00:00",
                         "tz": "Europe/Zurich"
                     },
                     "description": "",
@@ -2289,12 +2561,12 @@
                             "title": "Recent Developments in Microchannel Cooling and Interconnection Technologies",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "16:40:00",
+                                "time": "16:25:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "16:55:00",
+                                "time": "16:40:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -2413,12 +2685,12 @@
                             "title": "Liquid CO2 Jet Impingement Cooling",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "17:30:00",
+                                "time": "17:15:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "17:45:00",
+                                "time": "17:30:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -2550,12 +2822,12 @@
                             "title": "AM4CMS \u2013 Additive Manufacture for Cooling Manifold Structures: Project Initiation",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "18:00:00",
+                                "time": "17:45:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "18:15:00",
+                                "time": "18:00:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -2722,12 +2994,12 @@
                             "title": "New Members to DRD8: An Overview of Experimental Capabilities and Infrastructure at the University of Bath",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "17:45:00",
+                                "time": "17:30:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "18:00:00",
+                                "time": "17:45:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -2834,12 +3106,12 @@
                             "title": "A new compressor-ejector cycle concept for detector cooling  for both Krypton and CO2.",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "18:35:00",
+                                "time": "18:20:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "18:55:00",
+                                "time": "18:40:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 20,
@@ -2946,12 +3218,12 @@
                             "title": "Research on Krypton cooling for applications between -55\u00b0C and -140\u00b0C",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "18:55:00",
+                                "time": "18:40:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "19:15:00",
+                                "time": "19:00:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 20,
@@ -3058,12 +3330,12 @@
                             "title": "Introduction WP 3",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "15:30:00",
+                                "time": "15:15:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "15:40:00",
+                                "time": "15:25:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 10,
@@ -3121,12 +3393,12 @@
                             "title": "Monolithic integration of cooling microchannels in all-silicon  ladders for vertex detectors",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "15:55:00",
+                                "time": "15:40:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "16:10:00",
+                                "time": "15:55:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -3185,12 +3457,12 @@
                             "title": "Studies on the structural resistance of Silicon microchannels",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "16:10:00",
+                                "time": "15:55:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "16:25:00",
+                                "time": "16:10:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -3273,12 +3545,12 @@
                             "title": "Nanofibre-Enhanced Thin Heat Pipes for Thermal Management of Silicon Pixel Detectors (HENAPIX project): Concept, Fabrication Approach and Preliminary Numerical Results",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "16:55:00",
+                                "time": "16:40:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "17:10:00",
+                                "time": "16:55:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -3433,12 +3705,12 @@
                             "title": "Warm CO2 cooling in compact geometries: sub- and supercritical regimes",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "18:15:00",
+                                "time": "18:00:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "18:35:00",
+                                "time": "18:20:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 20,
@@ -3522,12 +3794,12 @@
                             "title": "Design Strategies to Improve CO\u2082 Boiling Heat Transfer in Silicon Microchannel Heat Sinks",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "16:25:00",
+                                "time": "16:10:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "16:40:00",
+                                "time": "16:25:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -3658,12 +3930,12 @@
                             "title": "Silicon Microchannel Cooling - From Performance Characterization to Detector Applications",
                             "startDate": {
                                 "date": "2026-06-04",
-                                "time": "15:40:00",
+                                "time": "15:25:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-04",
-                                "time": "15:55:00",
+                                "time": "15:40:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -3815,12 +4087,12 @@
                         "folders": [],
                         "startDate": {
                             "date": "2026-06-04",
-                            "time": "15:30:00",
+                            "time": "15:15:00",
                             "tz": "Europe/Zurich"
                         },
                         "endDate": {
                             "date": "2026-06-04",
-                            "time": "19:40:00",
+                            "time": "19:00:00",
                             "tz": "Europe/Zurich"
                         },
                         "_type": "Session",
@@ -3975,7 +4247,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -3991,7 +4263,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -4009,7 +4281,7 @@
                     },
                     "endDate": {
                         "date": "2026-06-04",
-                        "time": "12:50:00",
+                        "time": "12:30:00",
                         "tz": "Europe/Zurich"
                     },
                     "description": "",
@@ -5045,7 +5317,7 @@
                         },
                         "endDate": {
                             "date": "2026-06-04",
-                            "time": "12:50:00",
+                            "time": "12:30:00",
                             "tz": "Europe/Zurich"
                         },
                         "_type": "Session",
@@ -5200,7 +5472,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -5216,7 +5488,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -5234,7 +5506,7 @@
                     },
                     "endDate": {
                         "date": "2026-06-03",
-                        "time": "20:50:00",
+                        "time": "20:00:00",
                         "tz": "Europe/Zurich"
                     },
                     "description": "",
@@ -6607,7 +6879,7 @@
                         },
                         "endDate": {
                             "date": "2026-06-03",
-                            "time": "20:50:00",
+                            "time": "20:00:00",
                             "tz": "Europe/Zurich"
                         },
                         "_type": "Session",
@@ -6762,7 +7034,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -6778,7 +7050,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -7243,14 +7515,14 @@
                                 {
                                     "_type": "ContributionParticipation",
                                     "_fossil": "contributionParticipationMetadata",
-                                    "first_name": "Efstathios",
-                                    "last_name": "Panourgias",
-                                    "fullName": "Panourgias, Efstathios",
-                                    "id": "10563793",
-                                    "affiliation": "National Technical Univ. of Athens (GR)",
-                                    "emailHash": "a686ff135fb1e912e71ea2a493e9b6fb",
-                                    "db_id": 10563793,
-                                    "person_id": 10182456
+                                    "first_name": "Levent",
+                                    "last_name": "Kilinc",
+                                    "fullName": "Kilinc, Levent",
+                                    "id": "10563789",
+                                    "affiliation": "CERN",
+                                    "emailHash": "77ccacdbb1ee9899ec655ebf65c0d902",
+                                    "db_id": 10563789,
+                                    "person_id": 10182458
                                 }
                             ],
                             "primaryauthors": [
@@ -7265,6 +7537,18 @@
                                     "emailHash": "a686ff135fb1e912e71ea2a493e9b6fb",
                                     "db_id": 10563793,
                                     "person_id": 10182456
+                                },
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Levent",
+                                    "last_name": "Kilinc",
+                                    "fullName": "Kilinc, Levent",
+                                    "id": "10563789",
+                                    "affiliation": "CERN",
+                                    "emailHash": "77ccacdbb1ee9899ec655ebf65c0d902",
+                                    "db_id": 10563789,
+                                    "person_id": 10182458
                                 }
                             ],
                             "coauthors": [
@@ -7283,14 +7567,14 @@
                                 {
                                     "_type": "ContributionParticipation",
                                     "_fossil": "contributionParticipationMetadata",
-                                    "first_name": "Levent",
-                                    "last_name": "Kilinc",
-                                    "fullName": "Kilinc, Levent",
-                                    "id": "10563789",
-                                    "affiliation": "CERN",
-                                    "emailHash": "77ccacdbb1ee9899ec655ebf65c0d902",
-                                    "db_id": 10563789,
-                                    "person_id": 10182458
+                                    "first_name": "Lucas Ryan",
+                                    "last_name": "Gibbons",
+                                    "fullName": "Gibbons, Lucas Ryan",
+                                    "id": "10700012",
+                                    "affiliation": "Boston University (US)",
+                                    "emailHash": "67b45104a678b6ee552df9d4550449ea",
+                                    "db_id": 10700012,
+                                    "person_id": 10365258
                                 },
                                 {
                                     "_type": "ContributionParticipation",
@@ -7818,7 +8102,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -7834,7 +8118,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -8756,7 +9040,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -8772,7 +9056,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -9933,7 +10217,7 @@
                         "timezone": "Europe/Rome",
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "room": "Maria Luisa",
@@ -9949,7 +10233,7 @@
                         },
                         "adjustedEndDate": {
                             "date": "2026-06-05",
-                            "time": "12:30:00",
+                            "time": "13:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "supportInfo": {
@@ -9962,12 +10246,12 @@
                     },
                     "startDate": {
                         "date": "2026-06-01",
-                        "time": "15:15:00",
+                        "time": "15:00:00",
                         "tz": "Europe/Zurich"
                     },
                     "endDate": {
                         "date": "2026-06-01",
-                        "time": "19:40:00",
+                        "time": "19:00:00",
                         "tz": "Europe/Zurich"
                     },
                     "description": "",
@@ -9983,12 +10267,12 @@
                             "title": "Mechanical Design of the muEDM TPC",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "16:45:00",
+                                "time": "16:15:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "17:00:00",
+                                "time": "16:30:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10047,12 +10331,12 @@
                             "title": "Ultra-Light Mechanical Support Structures for the Mu3e Outer Pixel Tracker",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "18:10:00",
+                                "time": "17:40:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "18:25:00",
+                                "time": "17:55:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10111,12 +10395,12 @@
                             "title": "Production-phase assembly, integration and metrology of the CBM Silicon Tracking System",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "16:05:00",
+                                "time": "15:35:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "16:20:00",
+                                "time": "15:50:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10247,12 +10531,12 @@
                             "title": "Mechanical Design and Stability Systems of the MUonE Tracking Detector",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "17:25:00",
+                                "time": "16:55:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "17:45:00",
+                                "time": "17:15:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 20,
@@ -10383,12 +10667,12 @@
                             "title": "Full-scale thermo-mechanical prototypes for the ePIC OB stave and studies of active vibration damping in airflow-cooled detector structures",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "19:00:00",
+                                "time": "18:30:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "19:20:00",
+                                "time": "18:50:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 20,
@@ -10483,12 +10767,12 @@
                             "title": "A Straw Tube Tracker (STT) for the DUNE Near Detector Complex",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "18:30:00",
+                                "time": "18:00:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "18:50:00",
+                                "time": "18:20:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 20,
@@ -10619,12 +10903,12 @@
                             "title": "Welcome and Organizational Information",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "15:30:00",
+                                "time": "15:00:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "15:45:00",
+                                "time": "15:15:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10657,12 +10941,12 @@
                             "title": "Mu3e helium cooling \u2013 system performance, humidity control, and optimization for future operation",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "17:50:00",
+                                "time": "17:20:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "18:05:00",
+                                "time": "17:35:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10721,12 +11005,12 @@
                             "title": "CHeT: A Cylindrical Helical scintillating-fiber Tracker for MuEDM Experiment",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "16:25:00",
+                                "time": "15:55:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "16:40:00",
+                                "time": "16:10:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10785,12 +11069,12 @@
                             "title": "Integration of the low-mass, vacuum-operating CBM Micro Vertex Detector",
                             "startDate": {
                                 "date": "2026-06-01",
-                                "time": "15:45:00",
+                                "time": "15:15:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-01",
-                                "time": "16:00:00",
+                                "time": "15:30:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10859,12 +11143,12 @@
                         "folders": [],
                         "startDate": {
                             "date": "2026-06-01",
-                            "time": "15:15:00",
+                            "time": "15:00:00",
                             "tz": "Europe/Zurich"
                         },
                         "endDate": {
                             "date": "2026-06-01",
-                            "time": "19:40:00",
+                            "time": "19:00:00",
                             "tz": "Europe/Zurich"
                         },
                         "_type": "Session",
