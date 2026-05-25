@@ -1,7 +1,7 @@
 {
     "count": 1,
     "additionalInfo": {},
-    "ts": 1779692806,
+    "ts": 1779710653,
     "url": "https://indico.cern.ch/export/event/1599906.json?detail=sessions&pretty=yes",
     "results": [
         {
@@ -722,7 +722,46 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The cooling capacity of the CMS Phase-2 pixel barrel mechanics must be significantly higher than that of the first two generations of CMS pixel detectors due to the increased granularity of the pixel readout chip and the corresponding higher power dissipation, as well as much higher expected total irradiation dose. All barrel ladders undergo thorough quality control tests with respect to temperature uniformity and the temperature difference between the CO\u2082 coolant and the pixel module. \r\nDuring prototype testing, numerous adhesives have been tested and evaluated, both on single portions of the structure, and complete layers. Temperature uniformity across all points of the structure and greater thermal efficiency were achieved with less known and proviously not used glues. \r\nTo verify the radiation tolerance of the selected glues, irradiations with a Co-60 source were performed at RBI Zagreb at doses of 2 MGy, 3 MGy, 6 MGy, and 10 MGy. These doses correspond to the total ionizing dose expected for barrel layers 4, 3, 2, and 1, respectively, after 10 years of HL-LHC operation. \r\nThe results of the mechanical and thermal characterization of the glues before and after irradiation will be presented, together with the thermal performance of barrel layers constructed using the selected adhesive.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3281116,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5863552,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019098/attachments/3281116/5863552/CP_42.jpeg",
+                                            "title": "CP_42.jpeg",
+                                            "description": "",
+                                            "modified_dt": "2026-05-25T09:33:41.826572+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "CP_42.jpeg",
+                                            "content_type": "image/jpeg",
+                                            "size": 535140,
+                                            "checksum": "a552349546ff8686c8db7adb993b0fad"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5863551,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019098/attachments/3281116/5863551/PO_42.pdf",
+                                            "title": "PO_42.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-25T09:33:40.632450+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "PO_42.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 6363012,
+                                            "checksum": "46d79c160416d40fd1feff99ef68add2"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019098/",
                             "material": [],
                             "speakers": [
