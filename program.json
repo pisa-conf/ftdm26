@@ -1,7 +1,7 @@
 {
     "count": 1,
     "additionalInfo": {},
-    "ts": 1779710653,
+    "ts": 1780211993,
     "url": "https://indico.cern.ch/export/event/1599906.json?detail=sessions&pretty=yes",
     "results": [
         {
@@ -481,7 +481,46 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "During the CMS Phase-2 upgrade, the cooling system of the CMS Tracker will be enhanced to operate its subsystems at temperatures down to -35degC. The cooling medium - liquid CO2 - will be distributed via Detector Transfer Lines (DTLs), passing through PP1s (Patch Panel 1) and then through the Tracker Service Channels (TSCs) before reaching the detectors inside the Tracker.\r\nAs the space inside the TSC is very limited, its design must be carefully considered, as condensation of water on the outer surface of the service channel could cause damage to the system. During Phase-1, this issue was solved through on-site modifications, which provided system safety but in a non-optimized manner.\r\nThis poster presents the results of numerous thermal simulations of a new TSC design performed during Phase-2 preparations, as well as the results of thermal tests carried out on a 1:1 prototype. Different scenarios were evaluated to optimize the design and identify an effective method to maintain the outer surface temperature of the TSC above the dew point.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3284875,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871367,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7025885/attachments/3284875/5871367/CP_87_CMS%20Phase%202%20Tracker%20Service%20Channel%20Thermal%20Performance.jpeg",
+                                            "title": "CP_87_CMS Phase 2 Tracker Service Channel Thermal Performance.jpeg",
+                                            "description": "",
+                                            "modified_dt": "2026-05-29T20:28:12.820566+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "CP_87_CMS Phase 2 Tracker Service Channel Thermal Performance.jpeg",
+                                            "content_type": "image/jpeg",
+                                            "size": 364214,
+                                            "checksum": "048c9d622265708d420e2f3516bd2f30"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871360,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7025885/attachments/3284875/5871360/PO_87_CMS%20Phase%202%20Tracker%20Service%20Channel%20Thermal%20Performance.pdf",
+                                            "title": "PO_87_CMS Phase 2 Tracker Service Channel Thermal Performance.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-29T20:17:45.345752+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "PO_87_CMS Phase 2 Tracker Service Channel Thermal Performance.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 8438293,
+                                            "checksum": "8a82559d53e90fe59a4b93462ecd76ec"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7025885/",
                             "material": [],
                             "speakers": [
@@ -745,17 +784,17 @@
                                         },
                                         {
                                             "_type": "attachment",
-                                            "id": 5863551,
-                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019098/attachments/3281116/5863551/PO_42.pdf",
+                                            "id": 5865764,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019098/attachments/3281116/5865764/PO_42.pdf",
                                             "title": "PO_42.pdf",
                                             "description": "",
-                                            "modified_dt": "2026-05-25T09:33:40.632450+00:00",
+                                            "modified_dt": "2026-05-26T16:33:00.759675+00:00",
                                             "type": "file",
                                             "is_protected": false,
                                             "filename": "PO_42.pdf",
                                             "content_type": "application/pdf",
-                                            "size": 6363012,
-                                            "checksum": "46d79c160416d40fd1feff99ef68add2"
+                                            "size": 6363746,
+                                            "checksum": "0276a3baabeb39ad98aa4b62b88d4d70"
                                         }
                                     ],
                                     "default_folder": true,
@@ -1313,7 +1352,32 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The ATLAS and CMS Phase 2 upgrade presents multiple challenges, one of which is the need to test the 2PACL based CO2 detector cooling system\u2019s performance of multiple units in a short time frame with a limited team.\r\nTo address this requirement, various solutions were explored in the development of 2PACL control systems, ultimately leading to the implementation of a feature called Autoscan. This approach enables the automatic operation of different actuators, allowing them to follow multiple predefined test scenarios within a set time frame. Test requests are queued to facilitate continuous, large-scale testing, and the system can initiate tests outside of standard working hours, thereby extending the overall available testing time.\r\nThe development process ensured that the Autoscan implementation remains independent of PLC development, making it easily adaptable to different subsystems without requiring tracking of multiple PLC code versions. In its current state, the feature fully leverages the UNICOS control framework, simulating manual operations from the SCADA interface to the PLC. The PLC retains its independent development strategy, unaffected by the Autoscan feature, and remains the primary system for interlocking in case of issues.\r\nEach subsystem hosts its own Autoscan functionality, ensuring that systems operate independently during scans. This feature allows cooling experts to focus on data analysis and provides a streamlined process for performing all necessary tests before the start of Long Shutdown 3 (LS3).",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3284957,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871544,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019090/attachments/3284957/5871544/PO_36.pdf",
+                                            "title": "PO_36.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-30T20:30:42.272300+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "PO_36.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 1564557,
+                                            "checksum": "671a291e1b863e1d7eafb818c621a229"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019090/",
                             "material": [],
                             "speakers": [
@@ -1458,45 +1522,31 @@
                                     "attachments": [
                                         {
                                             "_type": "attachment",
-                                            "id": 5862524,
-                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5862524/CP_67.jpeg",
+                                            "id": 5866569,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5866569/CP_67.jpeg",
                                             "title": "CP_67.jpeg",
                                             "description": "",
-                                            "modified_dt": "2026-05-22T16:03:14.964285+00:00",
+                                            "modified_dt": "2026-05-27T08:38:27.453109+00:00",
                                             "type": "file",
                                             "is_protected": false,
                                             "filename": "CP_67.jpeg",
                                             "content_type": "image/jpeg",
-                                            "size": 242025,
-                                            "checksum": "fdb09be49d3f080ff82f5be2e6f22a8f"
+                                            "size": 214481,
+                                            "checksum": "ec55d529f17e8b1ecc3131f7d16ad7a6"
                                         },
                                         {
                                             "_type": "attachment",
-                                            "id": 5862523,
-                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5862523/CP_67.jpeg",
-                                            "title": "CP_67.jpeg",
-                                            "description": "",
-                                            "modified_dt": "2026-05-22T16:02:56.094574+00:00",
-                                            "type": "file",
-                                            "is_protected": false,
-                                            "filename": "CP_67.jpeg",
-                                            "content_type": "image/jpeg",
-                                            "size": 145012,
-                                            "checksum": "fb066c3b96153db12b6d39e2d6a60b1b"
-                                        },
-                                        {
-                                            "_type": "attachment",
-                                            "id": 5863107,
-                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5863107/PO_67.pdf",
+                                            "id": 5871472,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019148/attachments/3280642/5871472/PO_67.pdf",
                                             "title": "PO_67.pdf",
                                             "description": "",
-                                            "modified_dt": "2026-05-23T13:24:42.997230+00:00",
+                                            "modified_dt": "2026-05-30T08:09:01.740756+00:00",
                                             "type": "file",
                                             "is_protected": false,
                                             "filename": "PO_67.pdf",
                                             "content_type": "application/pdf",
-                                            "size": 6858408,
-                                            "checksum": "507da35e7f97fef1b062025e45dd6935"
+                                            "size": 6575219,
+                                            "checksum": "48d00e963e1dad24ba0e6d73ad2bb2cd"
                                         }
                                     ],
                                     "default_folder": true,
@@ -1808,10 +1858,71 @@
                     "description": "",
                     "title": "DRD8 Collaboration Board",
                     "url": "https://indico.cern.ch/event/1599906/sessions/657263/",
-                    "contributions": [],
+                    "contributions": [
+                        {
+                            "_type": "Contribution",
+                            "_fossil": "contributionMetadataWithSubContribs",
+                            "id": "90",
+                            "db_id": 7115980,
+                            "friendly_id": 90,
+                            "title": "Indico Link to the agenda",
+                            "startDate": {
+                                "date": "2026-06-05",
+                                "time": "10:30:00",
+                                "tz": "Europe/Zurich"
+                            },
+                            "endDate": {
+                                "date": "2026-06-05",
+                                "time": "10:50:00",
+                                "tz": "Europe/Zurich"
+                            },
+                            "duration": 20,
+                            "roomFullname": "Maria Luisa",
+                            "room": "Maria Luisa",
+                            "note": {},
+                            "location": "Hotel Hermitage",
+                            "type": null,
+                            "description": "https://indico.cern.ch/event/1692244/",
+                            "folders": [],
+                            "url": "https://indico.cern.ch/event/1599906/contributions/7115980/",
+                            "material": [],
+                            "speakers": [],
+                            "primaryauthors": [],
+                            "coauthors": [],
+                            "keywords": [],
+                            "track": null,
+                            "session": "DRD8 Collaboration Board",
+                            "references": [],
+                            "board_number": "",
+                            "code": "",
+                            "subContributions": []
+                        }
+                    ],
                     "note": {},
                     "session": {
-                        "folders": [],
+                        "folders": [
+                            {
+                                "_type": "folder",
+                                "id": 3283942,
+                                "title": null,
+                                "description": "",
+                                "attachments": [
+                                    {
+                                        "_type": "attachment",
+                                        "id": 5869304,
+                                        "download_url": "https://indico.cern.ch/event/1599906/sessions/657263/attachments/3283942/5869304/go",
+                                        "title": "Indico Link for CB meeting",
+                                        "description": "",
+                                        "modified_dt": "2026-05-28T13:38:26.620117+00:00",
+                                        "type": "link",
+                                        "is_protected": false,
+                                        "link_url": "https://indico.cern.ch/event/1692244/"
+                                    }
+                                ],
+                                "default_folder": true,
+                                "is_protected": false
+                            }
+                        ],
                         "startDate": {
                             "date": "2026-06-05",
                             "time": "10:30:00",
@@ -2108,13 +2219,177 @@
                     },
                     "endDate": {
                         "date": "2026-06-05",
-                        "time": "10:30:00",
+                        "time": "10:20:00",
                         "tz": "Europe/Zurich"
                     },
                     "description": "",
                     "title": "DRD8 Session 4",
                     "url": "https://indico.cern.ch/event/1599906/sessions/656949/",
                     "contributions": [
+                        {
+                            "_type": "Contribution",
+                            "_fossil": "contributionMetadataWithSubContribs",
+                            "id": "91",
+                            "db_id": 7116605,
+                            "friendly_id": 91,
+                            "title": "Learning from Demonstration for Robotic Disassembly",
+                            "startDate": {
+                                "date": "2026-06-05",
+                                "time": "09:40:00",
+                                "tz": "Europe/Zurich"
+                            },
+                            "endDate": {
+                                "date": "2026-06-05",
+                                "time": "10:00:00",
+                                "tz": "Europe/Zurich"
+                            },
+                            "duration": 20,
+                            "roomFullname": "Maria Luisa",
+                            "room": "Maria Luisa",
+                            "note": {},
+                            "location": "Hotel Hermitage",
+                            "type": null,
+                            "description": "The disassembly of complex technical systems is still predominantly performed manually, as the required process knowledge\u2014such as action sequences, grasping positions, and handling strategies\u2014is difficult to formalize and implement. Observing human workers during task execution offers a promising approach to automatically extract this knowledge. This is particularly relevant in domains such as the disassembly of patch panels on detector interfaces in the CMS experiment, where each sub-detector contains 20 to 30 panels and around ten sub-detectors must be handled. Learning from a limited number of human demonstrations can therefore enable the replication of such processes by robotic systems.\r\n\r\nThis work presents part of a Learning from Demonstration (LfD) framework which aims to transfer process knowledge from human workers to robotic systems, enabling non-experts to teach robots disassembly tasks. For this purpose, a markerless Optical Motion Capture (OMC) pipeline is developed to extract skeletal hand tracking data in real-time. This data is processed by a Recurrent Neural Network (RNN) to identify and parameterize the operations performed by the worker. It is shown that a virtual scene representation, including object poses, can be dynamically maintained solely based on hand motion. Furthermore, the results indicate that hand joint angles can be used to infer the type of object being grasped. Future work will leverage the extracted information to generate flexible task plans and enable robotic systems to autonomously replicate demonstrated disassembly processes.",
+                            "folders": [],
+                            "url": "https://indico.cern.ch/event/1599906/contributions/7116605/",
+                            "material": [],
+                            "speakers": [
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Carolin",
+                                    "last_name": "Benjamins",
+                                    "fullName": "Benjamins, Carolin",
+                                    "id": "10742900",
+                                    "affiliation": "RWTH Aachen",
+                                    "emailHash": "8c8d1b5db0f2c4c89d0d6947fdec9ae0",
+                                    "db_id": 10742900,
+                                    "person_id": 10242282
+                                }
+                            ],
+                            "primaryauthors": [
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Carolin",
+                                    "last_name": "Benjamins",
+                                    "fullName": "Benjamins, Carolin",
+                                    "id": "10742900",
+                                    "affiliation": "RWTH Aachen",
+                                    "emailHash": "8c8d1b5db0f2c4c89d0d6947fdec9ae0",
+                                    "db_id": 10742900,
+                                    "person_id": 10242282
+                                }
+                            ],
+                            "coauthors": [
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Burkhard",
+                                    "last_name": "Corves",
+                                    "fullName": "Corves, Burkhard",
+                                    "id": "10742901",
+                                    "affiliation": "",
+                                    "emailHash": null,
+                                    "db_id": 10742901,
+                                    "person_id": 10401086
+                                },
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Daniel",
+                                    "last_name": "Gossen",
+                                    "fullName": "Gossen, Daniel",
+                                    "id": "10742902",
+                                    "affiliation": "RWTH Aachen",
+                                    "emailHash": "3f2bdb9b59a986bc1d519da3b466656b",
+                                    "db_id": 10742902,
+                                    "person_id": 10401087
+                                },
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Michael",
+                                    "last_name": "Schluse",
+                                    "fullName": "Schluse, Michael",
+                                    "id": "10742903",
+                                    "affiliation": "",
+                                    "emailHash": "680c4f32a90307d8a3584a4ccbeee602",
+                                    "db_id": 10742903,
+                                    "person_id": 10401088
+                                },
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Rick",
+                                    "last_name": "Egetemaier",
+                                    "fullName": "Egetemaier, Rick",
+                                    "id": "10742904",
+                                    "affiliation": "",
+                                    "emailHash": null,
+                                    "db_id": 10742904,
+                                    "person_id": 10401089
+                                }
+                            ],
+                            "keywords": [],
+                            "track": null,
+                            "session": "DRD8 Session 4",
+                            "references": [],
+                            "board_number": "",
+                            "code": "",
+                            "subContributions": []
+                        },
+                        {
+                            "_type": "Contribution",
+                            "_fossil": "contributionMetadataWithSubContribs",
+                            "id": "89",
+                            "db_id": 7115623,
+                            "friendly_id": 89,
+                            "title": "Looking ahead",
+                            "startDate": {
+                                "date": "2026-06-05",
+                                "time": "10:00:00",
+                                "tz": "Europe/Zurich"
+                            },
+                            "endDate": {
+                                "date": "2026-06-05",
+                                "time": "10:20:00",
+                                "tz": "Europe/Zurich"
+                            },
+                            "duration": 20,
+                            "roomFullname": "Maria Luisa",
+                            "room": "Maria Luisa",
+                            "note": {},
+                            "location": "Hotel Hermitage",
+                            "type": null,
+                            "description": "Feedback from recent DRD Managers Forum Meetings",
+                            "folders": [],
+                            "url": "https://indico.cern.ch/event/1599906/contributions/7115623/",
+                            "material": [],
+                            "speakers": [
+                                {
+                                    "_type": "ContributionParticipation",
+                                    "_fossil": "contributionParticipationMetadata",
+                                    "first_name": "Burkhard",
+                                    "last_name": "Schmidt",
+                                    "fullName": "Schmidt, Burkhard",
+                                    "id": "10741727",
+                                    "affiliation": "CERN",
+                                    "emailHash": "f906aa99dae4ebfbf6d575cd54276b32",
+                                    "db_id": 10741727,
+                                    "person_id": 10236531
+                                }
+                            ],
+                            "primaryauthors": [],
+                            "coauthors": [],
+                            "keywords": [],
+                            "track": null,
+                            "session": "DRD8 Session 4",
+                            "references": [],
+                            "board_number": "",
+                            "code": "",
+                            "subContributions": []
+                        },
                         {
                             "_type": "Contribution",
                             "_fossil": "contributionMetadataWithSubContribs",
@@ -2429,7 +2704,7 @@
                         },
                         "endDate": {
                             "date": "2026-06-05",
-                            "time": "10:30:00",
+                            "time": "10:20:00",
                             "tz": "Europe/Zurich"
                         },
                         "_type": "Session",
@@ -8470,7 +8745,46 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The Tracker Barrel with 2S Modules (TB2S) detector of the HL-LHC CMS Tracker will consist of 4416 silicon strip modules, supported by 368 \u201cLadder\u201d structures. A carbon composite \u201cWheel\u201d of 2.4 m diameter and 2.4 m length supports the Ladders as well as smaller sub-detectors of the Tracker. This presentation summarizes the main design features of the TB2S Wheel and explains the various production phases that are currently culminating in the final assembly and load testing of the Wheel. Various production difficulties and lessons learned will be explained.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3284829,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871275,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019024/attachments/3284829/5871275/2026-05-29_CMS_TB2S_Wheel_Forum_2026.pdf",
+                                            "title": "2026-05-29_CMS_TB2S_Wheel_Forum_2026.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-29T16:17:24.484131+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "2026-05-29_CMS_TB2S_Wheel_Forum_2026.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 7623096,
+                                            "checksum": "290cd989c390314a8f0b32f65687938e"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871274,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019024/attachments/3284829/5871274/2026-05-29_CMS_TB2S_Wheel_Forum_2026.pptx",
+                                            "title": "2026-05-29_CMS_TB2S_Wheel_Forum_2026.pptx",
+                                            "description": "",
+                                            "modified_dt": "2026-05-29T16:17:08.708624+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "2026-05-29_CMS_TB2S_Wheel_Forum_2026.pptx",
+                                            "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                                            "size": 109607956,
+                                            "checksum": "ec68c7e15314d382c17415183e1b2fec"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019024/",
                             "material": [],
                             "speakers": [
@@ -9454,12 +9768,12 @@
                             "title": "Joining and manufacturing processes for detector cooling applications",
                             "startDate": {
                                 "date": "2026-06-02",
-                                "time": "11:50:00",
+                                "time": "11:30:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-02",
-                                "time": "12:05:00",
+                                "time": "11:45:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -9518,12 +9832,12 @@
                             "title": "Quality Control of CO2 Detector Circuits for the CMS Phase II Upgrades at CERN",
                             "startDate": {
                                 "date": "2026-06-02",
-                                "time": "11:30:00",
+                                "time": "11:50:00",
                                 "tz": "Europe/Zurich"
                             },
                             "endDate": {
                                 "date": "2026-06-02",
-                                "time": "11:45:00",
+                                "time": "12:05:00",
                                 "tz": "Europe/Zurich"
                             },
                             "duration": 15,
@@ -10385,7 +10699,32 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "We present the development and characterisation of ultra-light mechanical support structures for the Mu3e outer pixel tracker. Minimising material budget is critical for the Mu3e experiment, which searches for the charged lepton flavour violating decay $\\mu^+ \\rightarrow e^+ e^- e^+$. Thermal and electrical performance results will be presented for pixel tracking \u201cladders\u201d comprising 70 \u00b5m MuPix sensors and low-density HDIs, supported by 25 \u00b5m mechanical stiffeners, with a total estimated material budget of X/X$_0$ \u2248 0.1% per ladder. The mechanical support must provide sufficient structural rigidity for ladder assemblies of approximately 30 cm in length, whilst minimising material contribution and avoiding interference with the electrical performance of the ladder. Comparative studies of unidirectional carbon fibre, Kevlar, polyamide film, and glass fibre as candidate support materials are presented, with the benefits and limitations of each discussed in the context of low-mass detector construction.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3284933,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871494,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019023/attachments/3284933/5871494/FTDM2026_AMcDougall.pdf",
+                                            "title": "FTDM2026_AMcDougall.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-30T13:57:20.666630+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "FTDM2026_AMcDougall.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 43623798,
+                                            "checksum": "120601de3f4911f54e09babe0add5fd3"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019023/",
                             "material": [],
                             "speakers": [
@@ -10995,7 +11334,43 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The Mu3e experiment operates a silicon pixel detector with an unprecedented material budget of only 0.1% X\u2080 per tracking layer, enabled by cooling with gaseous helium to avoid introducing additional material from liquids or mechanical structures.\r\nThe helium plant was fully commissioned prior to the start of the 2025 vertex detector operation and successfully provided stable, continuous cooling of the inner layers with a mass flow of 2 g/s.\r\nIn this period, the cooling gas entered the detector at an inlet temperature of +15 \u00b0C.\r\nDuring the vertex campaign, humidity ingress required periodic purging to maintain an adequately low dew point and prevent condensation on cold detector surfaces.\r\nA simple drying bypass filled with molecular-sieve desiccant was implemented to facilitate this process efficiently.\r\n\r\nLooking ahead to the 2026/27 campaign, the helium system will also cool the central outer detector layers.\r\nPreparations include added insulation for operation down to \u201320 \u00b0C and continued optimization of flow cross sections, as the pressure margin is close to the limit for delivering the nominal 16 g/s through the turbo-compressor chain.\r\nThis contribution summarizes operational experience, humidity-control measures, low-temperature readiness, and ongoing optimization of the helium system for the next phase of Mu3e detector operation.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3284968,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871578,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019007/attachments/3284968/5871578/go",
+                                            "title": "Mu3e Helium (Google Slides)",
+                                            "description": "",
+                                            "modified_dt": "2026-05-31T06:48:04.208860+00:00",
+                                            "type": "link",
+                                            "is_protected": false,
+                                            "link_url": "https://docs.google.com/presentation/d/1Zu9tv_sSob9lH_etnDUXMYB7XwDBBURasseN60aXCIA/edit?usp=sharing"
+                                        },
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871579,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7019007/attachments/3284968/5871579/Mu3e%20Helium%20(Google%20Slides).pdf",
+                                            "title": "Mu3e Helium (Google Slides)",
+                                            "description": "",
+                                            "modified_dt": "2026-05-31T06:48:13.921686+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "Mu3e Helium (Google Slides).pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 5960529,
+                                            "checksum": "4864364dd09e4919da0cab8c6427cdf2"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7019007/",
                             "material": [],
                             "speakers": [
@@ -11123,7 +11498,32 @@
                             "location": "Hotel Hermitage",
                             "type": null,
                             "description": "The Micro Vertex Detector (MVD) is the first downstream detector of the fixed-target CBM experiment at the future Facility for Antiproton and Ion Research (FAIR). It enables high-precision tracking of low-momentum particles in direct proximity of the target with the first station being placed only 8 cm downstream the interaction point. The four planar stations operate in the target vacuum and are equipped with $\\sim$300 MIMOSIS CMOS Monolithic Active Pixel Sensors (MAPS).\r\nFor integration in the MVD, the sensors are wire-bonded to dedicated thin flex cables and glued onto Thermal Pyrolytic Graphite (TPG; 380 \u00b5m thick) carriers, which provide stiff, low-$X_0$ support with a high in-plane thermal conduction ($\\sim$1500 W/m/K) in the acceptance. Actively cooled aluminum heat sinks outside the acceptance extract the heat. Sensors are integrated on both sides of carrier to achieve 100% fill factor.\r\nIn this contribution, we present the detector concept and the integration of MIMOSIS into the CBM Micro Vertex Detector as we progress toward production of components, followed by station assembly and readiness for first beam with CBM in 2028. A focal point will be the challenges associated with the stringent material budget constraints (0.3-0.5% $X_0$ per station), double-sided integration, and vacuum operation. Results from the R&D on TPG carriers and the preparation for use in high-precision tracking devices will be highlighted.",
-                            "folders": [],
+                            "folders": [
+                                {
+                                    "_type": "folder",
+                                    "id": 3284951,
+                                    "title": null,
+                                    "description": "",
+                                    "attachments": [
+                                        {
+                                            "_type": "attachment",
+                                            "id": 5871534,
+                                            "download_url": "https://indico.cern.ch/event/1599906/contributions/7018999/attachments/3284951/5871534/2026-06-01_MVD-Integration_FMatejcek.pdf",
+                                            "title": "2026-06-01_MVD-Integration_FMatejcek.pdf",
+                                            "description": "",
+                                            "modified_dt": "2026-05-30T19:08:08.638977+00:00",
+                                            "type": "file",
+                                            "is_protected": false,
+                                            "filename": "2026-06-01_MVD-Integration_FMatejcek.pdf",
+                                            "content_type": "application/pdf",
+                                            "size": 14031454,
+                                            "checksum": "d151321657af5bbc6e3b5890050c4ef8"
+                                        }
+                                    ],
+                                    "default_folder": true,
+                                    "is_protected": false
+                                }
+                            ],
                             "url": "https://indico.cern.ch/event/1599906/contributions/7018999/",
                             "material": [],
                             "speakers": [
